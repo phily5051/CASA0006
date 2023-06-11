@@ -1,0 +1,11 @@
+Mark: 71.5
+Feedback: 	
+This project explores the most influential factors on the satisfaction of business air travelers. 
+The student has done a good job in summarizing literature and identifying the research questions. 
+The notebook has been neatly laid out. The workflow is well-structured and logical, with each step clearly explained and justified. 
+Extensive data exploratory analysis has been carried out and a lot of effort has been made into visualization, making the illustrations aesthetically pleasing to view. 
+Four ML models, namely Logistic Regression (LR), Classification and Regression Trees (CART), Random Forest (RF), and Extreme Gradient Boosting (XGBoost), are properly experimented. 
+Meaningful results were obtained, and the student provided a good interpretation of the modeling results. 
+Some key aspects are revisited and summarized in the discussion part followed by limitations and conclusion. 
+As a result, this study successfully identifies several factors that contribute to business visitors' satisfaction with airline services. 
+Overall, this is comprehensive work, demonstrating a good understanding of the course material and the grasp of technical skills.
